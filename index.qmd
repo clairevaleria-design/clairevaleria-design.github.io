@@ -6,7 +6,7 @@ about:
   links:
     - icon: github
       text: Github
-      href: https://github.com/<clairevaleria-design>
+      href: https://github.com/clairevaleria-design
 ---
 
 
