@@ -1,11 +1,12 @@
 ---
-title: "clairevaleria-design.github.io"
+title: "<Claire Valeria Hein-Salvi>"
+about:
+  template: jolla
+  image: images/me.jpeg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/<yourgithubusername>
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+*Graduate Student in <Human Development, Learning, and Culture >*
+University of British Columbia 
