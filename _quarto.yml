@@ -2,12 +2,12 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "clairevaleria-design.github.io"
+  title: "Claire Valeria Hein-Salvi"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+
 
 format:
   html:
