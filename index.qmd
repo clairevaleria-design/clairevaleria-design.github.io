@@ -2,11 +2,14 @@
 title: "Claire Valeria Hein-Salvi"
 about:
   template: jolla
-  image: images/me.jpeg
+  image: images/avatar.png
   links:
     - icon: github
       text: Github
       href: https://github.com/<clairevaleria-design>
 ---
-*Graduate Student in <Human Development, Learning, and Culture >*
+
+
+*Graduate Student in Human Development, Learning, and Culture*
+
 University of British Columbia 
