@@ -1,0 +1,26 @@
+---
+title: "Publications"
+editor: visual
+---
+
+### Peer-Reviewed Publications
+
+**Xiao, B., Zhao, H., Hein‐Salvi, C., Parent, N., & Shapka, J. D.** (2025).\
+*Exploring the trajectories of problematic smartphone use in adolescence: Insights from a longitudinal study.*\
+**British Journal of Developmental Psychology, 43(4)**, 1010–1026.\
+<https://doi.org/10.1111/bjdp.12570>
+
+**Xiao, B., Zhao, H., Hein-Salvi, C., Parent, N!, & Shapka, J. D.** (2024).\
+*Examining Self-Regulation and Problematic Smartphone Use in Canadian Adolescents: A Parallel Latent Growth Modeling Approach.*\
+**Journal of Youth and Adolescence.**\
+<https://doi.org/10.1007/s10964-024-02071-x>
+
+**Xiao, B, Parent, N., Hein-Salvi, C!, & Shapka, J. D.** (2023).\
+*Shyness and problematic internet use among adolescents and young adults: A systematic review and meta‐analysis.*\
+**Cogent Mental Health, 2(1).**\
+<https://doi.org/10.1080/28324765.2023.2278879>
+
+**Parent, N., Xiao, B., Hein-Salvi, C., & Shapka, J. D.** (2022).\
+*Should We Be Worried about Smartphone Addiction? An Examination of Canadian Adolescents’ Feelings of Social Disconnection in the Time of COVID-19.*\
+**International Journal of Environmental Research and Public Health, 19(15),** 9365.\
+<https://doi.org/10.3390/ijerph19159365>

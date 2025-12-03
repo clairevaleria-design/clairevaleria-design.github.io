@@ -1,19 +1,25 @@
 ---
-title: "Claire Valeria Hein-Salvi"
+title: ""
 about:
   template: jolla
   image: images/me.jpeg
-  links:
-    - icon: github
-      text: Github
-      href: https://github.com/clairevaleria-design
 ---
 
 
-*Graduate Student in Human Development, Learning, and Culture*
+# Claire Valeria Hein-Salvi
+*Master of Arts Student in Human Development, Learning, and Culture*
 
 University of British Columbia 
 
 ## Education
 
 Bachelor of Arts, Psychology and Spanish, University of British Columbia | 2023
+
+
+::: {style="text-align:center; margin-top: 20px;"}
+[GitHub](https://github.com/clairevaleria-design){.btn .btn-outline-secondary .bi-github}
+[LinkedIn](https://ca.linkedin.com/in/claireheinsalvi){.btn .btn-outline-secondary .bi-linkedin}
+:::
+
+
+

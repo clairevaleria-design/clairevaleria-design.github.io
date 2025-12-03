@@ -1,13 +1,37 @@
 project:
   type: website
   output-dir: docs
+
 website:
-  title: "Claire Valeria Hein-Salvi"
+  favicon: images/logo2.png
+  title: ""
   navbar:
+    background: primary
+    search: true
+    logo: images/logo2.png
     left:
       - href: index.qmd
-        text: Home
-      - publications.qmd
+        text: " "
+        icon: house-door-fill
+
+      - text: "Research"
+        menu:
+          - href: research.qmd
+            text: "Peer-Reviewed Publications"
+          - href: conference.qmd
+            text: "Refereed Conference Posters"
+
+      - href: awards.qmd
+        text: "Awards"
+
+      - href: teaching_exp.qmd
+        text: "Teaching Experience"
+
+      - href: research_exp.qmd
+        text: "Lab Work"
+
+      - href: media_feat.qmd
+        text: "Media & Features"
 
 
 format:
@@ -17,6 +41,5 @@ format:
       - brand
     css: styles.css
     toc: true
-
 
 
