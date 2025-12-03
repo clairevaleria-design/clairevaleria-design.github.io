@@ -16,9 +16,10 @@ University of British Columbia
 Bachelor of Arts, Psychology and Spanish, University of British Columbia | 2023
 
 
-::: {style="text-align:center; margin-top: 20px;"}
+::: {.button-row style="text-align:center;"}
 [GitHub](https://github.com/clairevaleria-design){.btn .btn-outline-secondary .bi-github}
 [LinkedIn](https://ca.linkedin.com/in/claireheinsalvi){.btn .btn-outline-secondary .bi-linkedin}
+[Email](mailto:cheinsal@student.ubc.ca){.btn .btn-outline-secondary .bi-envelope}
 :::
 
 
