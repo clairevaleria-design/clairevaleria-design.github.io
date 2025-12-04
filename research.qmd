@@ -10,12 +10,12 @@ editor: visual
 **British Journal of Developmental Psychology, 43(4)**, 1010–1026.\
 <https://doi.org/10.1111/bjdp.12570>
 
-**Xiao, B., Zhao, H., Hein-Salvi, C., Parent, N!, & Shapka, J. D.** (2024).\
+**Xiao, B., Zhao, H., Hein-Salvi, C., Parent, N, & Shapka, J. D.** (2024).\
 *Examining Self-Regulation and Problematic Smartphone Use in Canadian Adolescents: A Parallel Latent Growth Modeling Approach.*\
 **Journal of Youth and Adolescence.**\
 <https://doi.org/10.1007/s10964-024-02071-x>
 
-**Xiao, B, Parent, N., Hein-Salvi, C!, & Shapka, J. D.** (2023).\
+**Xiao, B, Parent, N., Hein-Salvi, C, & Shapka, J. D.** (2023).\
 *Shyness and problematic internet use among adolescents and young adults: A systematic review and meta‐analysis.*\
 **Cogent Mental Health, 2(1).**\
 <https://doi.org/10.1080/28324765.2023.2278879>

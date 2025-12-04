@@ -7,20 +7,55 @@ about:
 
 
 # Claire Valeria Hein-Salvi
-*Master of Arts Student in Human Development, Learning, and Culture*
+###### **MA Student, Human Development, Learning, and Culture**  
+University of British Columbia
 
-University of British Columbia 
+---
+
+
+## About Me
+I’m a second-year MA student in Human Development, Learning, and Culture at UBC. Before graduate school, I completed my BA in Psychology and Spanish at UBC and spent a year teaching English at a vocational college in Berlin. Watching how often my students turned to their phones sparked my interest in the patterns behind adolescent digital behaviour. I now work in the Developmental Change & Technology (DCTech) Lab under Dr. Jennifer Shapka, where I use CyberTeens longitudinal data to study how adolescents’ social goals predict habitual and problematic smartphone use. I’ve been part of the lab since 2021, and my research focuses on how developmental motivations shape digital habits over time. Outside of research, I’ve been an artistic swimmer for more than 20 years. The sport continues to shape how I approach my work, discipline, collaboration, precision, and the calm focus that comes from trying to look effortless while upside down underwater.
+
+---
 
 ## Education
+**Master of Arts, Human Development, Learning & Culture**  
+University of British Columbia — *In progress*
 
-Bachelor of Arts, Psychology and Spanish, University of British Columbia | 2023
+**Bachelor of Arts, Psychology and Spanish**  
+University of British Columbia — *2023*
 
+---
+## Research Interests
+<div style="text-align: center;">
 
-::: {.button-row style="text-align:center;"}
-[GitHub](https://github.com/clairevaleria-design){.btn .btn-outline-secondary .bi-github}
-[LinkedIn](https://ca.linkedin.com/in/claireheinsalvi){.btn .btn-outline-secondary .bi-linkedin}
-[Email](mailto:cheinsal@student.ubc.ca){.btn .btn-outline-secondary .bi-envelope}
-:::
+<div style="text-align: center;">
+  <ul style="display: inline-block; text-align: left;">
+
+  <li>Adolescent digital development</li>
+  <li>Online misinformation</li>
+  <li>Problematic &amp; habitual smartphone use</li>
+  <li>Social goals and motivation</li>
+  <li>Technology and well-being</li>
+
+  </ul>
+</div>
+
+<div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
+
+<a href="https://github.com/..." class="btn btn-light">
+<i class="bi-github"></i> GitHub
+</a>
+
+<a href="https://linkedin.com/..." class="btn btn-light">
+<i class="bi-linkedin"></i> LinkedIn
+</a>
+
+<a href="mailto:..." class="btn btn-light">
+<i class="bi-envelope"></i> Email
+</a>
+
+</div>
 
 
 
